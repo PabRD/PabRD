@@ -2,6 +2,7 @@
 
 - 👋 I’m @PabRD, sport science graduate (MSc)
 - 👀 I’m interested in sport science, biomechanics, data processing and I'm looking for a phD position
+- Always learning :D
 
 
 <!---
